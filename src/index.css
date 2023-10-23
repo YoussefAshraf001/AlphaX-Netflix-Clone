@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url(https://fonts.google.com/specimen/Bebas+Neue?preview.text=ALPHAX);
+
+body{
+    background-color: black;
+    font-family: 'Babas Neue' 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
